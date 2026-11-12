@@ -17,7 +17,7 @@ Páginas: `index.html` (início, Aulas e Dev) e `trabalhe-conosco.html` (vagas p
 
 - WhatsApp: procure por `5547988883216` (links) e `(47) 98888-3216` (texto).
 - E-mail: procure por `sabiahenglishschool@gmail.com`.
-- Instagram: `sabiah.es` e `sabiah.dev`.
+- Instagram: `sabiah.es` (início) e `sabiah.teachers` (Trabalhe conosco).
 - Cores: bloco `:root` no início do `<style>`.
 
 As fontes (Poppins e DM Sans) carregam do Google Fonts, então o site precisa de internet para exibi-las.
