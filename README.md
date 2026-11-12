@@ -1,6 +1,6 @@
 # Site Sabiah English School
 
-Site estático: `index.html` + `favicon.svg`. Não precisa de build nem de instalação.
+Site estático: `index.html`, `trabalhe-conosco.html` + `favicon.svg`. Não precisa de build nem de instalação.
 
 ## Como publicar (escolha uma)
 
@@ -13,12 +13,11 @@ Para usar um domínio próprio, aponte o domínio nas configurações da platafo
 
 ## O que editar
 
-Tudo está em `index.html`:
+Páginas: `index.html` (início, Aulas e Dev) e `trabalhe-conosco.html` (vagas para professores). Em ambas:
 
 - WhatsApp: procure por `5547988883216` (links) e `(47) 98888-3216` (texto).
 - E-mail: procure por `sabiahenglishschool@gmail.com`.
 - Instagram: `sabiah.es` e `sabiah.dev`.
-- Link do canal Kids no YouTube: ainda não existe no site. Adicione um `<a class="btn ghost" href="...">` ao lado do botão da seção `id="kids"`.
 - Cores: bloco `:root` no início do `<style>`.
 
 As fontes (Poppins e DM Sans) carregam do Google Fonts, então o site precisa de internet para exibi-las.
